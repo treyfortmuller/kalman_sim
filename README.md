@@ -1,6 +1,10 @@
 # Kalman Filtering Examples
 
-I followed Simon Levy's [EKF tutorial](https://home.wlu.edu/~levys/kalman_tutorial/) which is simple and approachable. This repository has simulated examples written in python I was inspired to build after reading through his content. Examples include:
+I followed Simon Levy's [EKF tutorial](https://home.wlu.edu/~levys/kalman_tutorial/) which is simple and approachable. This repository has simulated examples written in python I was inspired to build after reading through his content.
+
+Another compelling introductory text is [rlabbe's Jupyter Notebook](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python). 
+
+Examples include:
 
 * Single-valued linear Kalman Filter
 
