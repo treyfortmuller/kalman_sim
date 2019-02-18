@@ -15,3 +15,16 @@ Examples include:
 * Multi-valued linear sensor fusing Kalman Filter
 * Nonlinear state transition and sensor functions for an Extended Kalman Filter
 * Arduino C implementation for sensor fusion of an actual IMU's data
+
+#### Other Resources:
+
+* http://robotsforroboticists.com/kalman-filtering/
+
+* https://github.com/AtsushiSakai/PythonRobotics/tree/master/Localization/extended_kalman_filter
+
+* http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummies
+
+* https://www.youtube.com/watch?v=Os6V1lnUPZo
+
+  
+
